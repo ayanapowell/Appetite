@@ -272,3 +272,116 @@ hr {
 	margin-bottom: 40px;
 }
 
+/* UNDER CONSTRUCTION STYLES */
+
+body.construction {
+	background-color: #f9e8d2;
+	margin-top: 10% ;
+}
+
+.construction h1 {
+	padding-top: 7%;
+	margin-top: ;
+	text-align: center;
+	color: #54545f;
+	font-family: 'Playfair Display', serif;
+	font-size: 55px;
+}
+
+.nav_icon_2 {
+	margin-left: 20%;
+}
+
+.nav_icon_2 a.about_icon { 
+	font-family:'Slabo 27px', serif;
+	font-weight: 100;
+	letter-spacing:1px;
+	color:red;
+	font-size:13px;
+	border-style:solid;
+	border-color:#D0D0D0;
+	border-width:0.5px;
+	border-right-width:0px;
+	padding:19.5px;
+	display:none;
+}	
+
+.nav_icon_2 .fa-facebook {
+	color: #C0C0C0;
+	border-style: solid;
+	border-color: #C0C0C0;
+	border-width: 0.5px;
+	padding: 20px;
+	background-color: white;
+
+}
+
+.nav_icon_2 .fa-envelope-o,
+.nav_icon_2 .fa-instagram {
+	color: #C0C0C0;
+	border-style: solid;
+	border-color: #C0C0C0;
+	border-width: 0.5px;
+	border-right-width: 0px;
+	padding: 20px;
+	background-color: white;
+
+
+}
+
+.nav_icon_2 .nav__about:hover,
+.nav_icon_2 .fa-envelope-o:hover,
+.nav_icon_2 .fa-instagram:hover,
+.nav_icon_2 .fa-facebook:hover  {
+	color: #404040;
+	cursor: pointer;
+}
+
+.construction .top_bar {
+	position:;
+	width: 35.71%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0px;
+	;
+}
+
+.construction.top_bar p {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 100;
+	font-size: 15px;
+	letter-spacing: 3px;
+	position: ;
+	width: 9%;
+	margin-left: 13.4%;
+	z-index: 999;
+	color: #262626;
+}
+
+.construction.top_bar p:hover {
+	color: black;
+}
+
+.construction.top_bar a {
+	text-decoration: none;
+}
+
+.construction.top_bar__subtitle {
+	position: ;
+	width: 27%;
+	margin-left: 8.71%;
+	padding-top: ;
+	font-family: 'Josefin Slab', serif;
+	font-weight: 400;
+	letter-spacing: 1px;
+	color: black;
+	font-size: 12px;
+	z-index: 10;
+
+}
+
+
+
+
+
+
