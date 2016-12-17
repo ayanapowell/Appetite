@@ -25,13 +25,7 @@ button.click(function(){
 // });
 
 
-
-
 	win.scroll(function(){
-
-
-
-
 		scroll = $(this).scrollTop();  // 1st header fade in/out 
 	    if (scroll > 52)  {
 	        $('.top_bar__subtitle, .title, #subtitle_2').addClass("hide");
