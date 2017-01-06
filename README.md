@@ -6,13 +6,13 @@
 
 ## Description
 
-_It can be viewed and/or used at https://ayanapowell.github.io/appetite/_
+_It can be viewed and/or used at https://ayanapowell.github.io/Appetite/_
 
 ## Setup/Installation Requirements
 
 * _Clone this repository_
     _To clone using Git, use the following terminal command:_
-    _git clone https://github.com/ayanapowell/track-suggeter.git
+    _git clone https://github.com/ayanapowell/Appetite.git
 * _Open in text editor of your choice_
 
 ## Known Bugs
